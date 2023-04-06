@@ -1,6 +1,6 @@
 - Hi, I’m @mmatrangolo
 - I’m interested in robotics, programming and music
-- I’m currently learning electronics and C++
+- I’m currently learning electronics and Python
 - I’m looking to collaborate on ... TBD ...
 
 <!---
